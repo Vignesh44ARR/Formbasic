@@ -1,0 +1,32 @@
+#cen{
+    text-align:center;
+  }
+  h1{
+    color:red;
+  }
+  
+  form{
+    padding-left:5rem;
+  }
+  label{
+    font-weight:bold;
+    font-size:20px;
+    color:navy;
+  }
+  input{
+    font-weight:19px;
+    border-top:None;
+    border-left:None;
+    border-right:None;
+    border-bottom:3px green solid;
+    font-size :19px;
+  }
+ 
+  div{
+    padding:25px;
+    border:2px black solid;
+  }
+  
+
+
+  
